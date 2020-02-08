@@ -1,1 +1,1 @@
-EPam task on Maven and oops concepts.
+Epam task on Maven and oops concepts.
